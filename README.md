@@ -21,7 +21,7 @@ Hi there 👋 Hope everyone's doing okay and welcome to my portfolio !
 <br>
 <br>I'm currently an undergraduate student aiming to recieve a first class honours degree in Computer Science at the University of Westminster. I've added all my coding projects I've completed at University alongside my Solutions to the Labs and Problem Sets for Harvard University's CS50x course run by David J. Malan. 
 <br><br>Feel free to look around and see any of my projects!
-<br><br>
+<br
 
 ---
 ### Languages
