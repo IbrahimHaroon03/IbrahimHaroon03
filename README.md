@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # IBRAHIM HAROON  
-**`COMPUTER SCIENCE 2nd YEAR | UNIVERSITY OF WESTMINSTER`**
+**`COMPUTER SCIENCE 3rd YEAR | UNIVERSITY OF WESTMINSTER`**
 
 ---
 ### About Me
 Hi there 👋 Hope everyone's doing okay and welcome to my portfolio !
 <br>
-<br>I'm currently an undergraduate student aiming to recieve a first class honours degree in Computer Science at the University of Westminster. I've added all my coding projects I've completed at University in my repositories.
-<br><br>Feel free to look around and see any of my projects!
+<br>I'm currently an undergraduate student aiming to recieve a first class honours degree in Computer Science at the University of Westminster. Take a look at my repositories to see my university courseworks, leetcode solutions and side projects like my website protfolio!
 
 ---
 ### Languages
