@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 ### About Me
-Hi there 👋 Hope everyone's doing okay and welcome to my portfolio !
+Hello! 👋 
 <br>
 <br>I'm currently an undergraduate student aiming to recieve a first class honours degree in Computer Science at the University of Westminster. Take a look at my repositories to see my university courseworks, leetcode solutions and side projects like my website protfolio!
 
