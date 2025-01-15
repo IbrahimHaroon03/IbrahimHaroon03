@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 **`COMPUTER SCIENCE 3rd YEAR | UNIVERSITY OF WESTMINSTER`**
 
 ---
-### About Me
 Hello! 👋 
 <br>
 <br>I'm currently an undergraduate student aiming to recieve a first class honours degree in Computer Science at the University of Westminster. Take a look at my repositories to see my university courseworks, leetcode solutions and side projects like my website protfolio!
